@@ -1,3 +1,3 @@
 # NavigationBar
 
-A description of this package.
+A Swift Package from SPM for changing some attributes from the Navigation Bar in SwiftUI.
